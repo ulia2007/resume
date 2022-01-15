@@ -37,6 +37,11 @@
     padding-top: 10px;
  
 }
+.info-container > p{
+    font-size: 18px;
+    padding-bottom: 8px;
+    
+}
 .contact-conteiner {
   margin-top: 10px;
   margin-left: 40px;
